@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vocados.github.io/sitemap.xml
+Sitemap: https://vocados.github.io/en_sitemap_index.xml
